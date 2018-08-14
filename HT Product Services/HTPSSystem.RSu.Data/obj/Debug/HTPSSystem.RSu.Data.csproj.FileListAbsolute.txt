@@ -1,0 +1,7 @@
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\bin\Debug\HTPSSystem.RSu.Data.dll.config
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\bin\Debug\HTPSSystem.RSu.Data.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\bin\Debug\HTPSSystem.RSu.Data.pdb
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\obj\Debug\HTPSSystem.RSu.Data.csprojAssemblyReference.cache
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\obj\Debug\HTPSSystem.RSu.Data.csproj.CoreCompileInputs.cache
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\obj\Debug\HTPSSystem.RSu.Data.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu.Data\obj\Debug\HTPSSystem.RSu.Data.pdb

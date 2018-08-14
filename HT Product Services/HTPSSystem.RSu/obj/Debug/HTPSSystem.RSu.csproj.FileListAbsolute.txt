@@ -1,0 +1,15 @@
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.dll.config
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.pdb
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\EntityFramework.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.Data.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.Data.pdb
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\HTPSSystem.RSu.Data.dll.config
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\EntityFramework.xml
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\obj\Debug\HTPSSystem.RSu.csprojAssemblyReference.cache
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\obj\Debug\HTPSSystem.RSu.csproj.CoreCompileInputs.cache
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\obj\Debug\HTPSSystem.RSu.csproj.CopyComplete
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\obj\Debug\HTPSSystem.RSu.dll
+C:\Users\srsur\OneDrive\Documents\GitHub\Exercises\HT Product Services\HTPSSystem.RSu\obj\Debug\HTPSSystem.RSu.pdb
